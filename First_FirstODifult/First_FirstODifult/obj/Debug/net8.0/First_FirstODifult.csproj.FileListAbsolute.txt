@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\bin\Debug\net8.0\First_FirstODifult.exe
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\bin\Debug\net8.0\First_FirstODifult.deps.json
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\bin\Debug\net8.0\First_FirstODifult.runtimeconfig.json
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\bin\Debug\net8.0\First_FirstODifult.dll
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\bin\Debug\net8.0\First_FirstODifult.pdb
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\obj\Debug\net8.0\First_FirstODifult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\obj\Debug\net8.0\First_FirstODifult.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\obj\Debug\net8.0\First_FirstODifult.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\obj\Debug\net8.0\First_FirstODifult.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\obj\Debug\net8.0\First_FirstODifult.dll
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\obj\Debug\net8.0\refint\First_FirstODifult.dll
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\obj\Debug\net8.0\First_FirstODifult.pdb
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\obj\Debug\net8.0\First_FirstODifult.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Teraning\First_FirstODifult\First_FirstODifult\obj\Debug\net8.0\ref\First_FirstODifult.dll
